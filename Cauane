@@ -1,0 +1,8 @@
+mul1 = int(input("Insira primeiro numero:"))
+mul2 = int(input("Insira o segundo número:"))
+
+def multiplicação ():
+    resultado = mul1 * mul2
+    print(f"O resultado é: {resultado}")
+    
+    multiplicação()
